@@ -176,6 +176,10 @@ export default function Form({ error }: Props) {
                 </Button>
               </div>
             </div>
+
+            <p className="text-center pt-4 text-sm">
+              By signing in, you agree to our Terms of Use and Privacy Policy.
+            </p>
           </form>
         </div>
 
